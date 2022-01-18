@@ -1,0 +1,38 @@
+[
+        {
+             "image": "https://www.tarkan.com/wp-content/uploads/2017/06/karma_kapak.jpg",
+            "id": "1"
+        },
+        {
+             "image": "https://www.tarkan.com/wp-content/uploads/2017/05/dudu.jpg",
+            "id": "2"
+        },
+        {
+            "image": "https://www.tarkan.com/wp-content/uploads/2017/05/ahdevefa.jpg",
+           "id": "3"
+       },
+       {
+        "image": "https://upload.wikimedia.org/wikipedia/tr/a/ae/608px-Tarkan_accayipsin_album_cover.jpg",
+       "id": "4"
+   },
+   {
+    "image": "https://www.tarkan.com/wp-content/uploads/2017/05/tarkan10Kapak.jpg",
+   "id": "5"
+},
+{
+    "image": "https://music.metason.net/image?fn=R-2348546.jpeg&sc=753",
+   "id": "6"
+},
+{
+    "image": "https://mp3semticdn.com/mp3_images/Tarkan-Sikidim-1999-23.jpg",
+   "id": "7"
+},
+{
+    "image": "https://direct.rhapsody.com/imageserver/images/alb.342768182/600x600.jpg",
+   "id": "8"
+},
+{
+    "image": "https://resources.tidal.com/images/3eccba35/0306/4c78/b4d4/334be47b9939/640x640.jpg",
+   "id": "9"
+}
+]
